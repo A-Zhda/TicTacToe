@@ -28,6 +28,7 @@ public class TicTacToe {
     static char[][] fieldGame = new char[3][3];
     static int count = 0;
     static int x,y;
+
     public static void main(String[] args) {
 
         Scanner S = new Scanner(System.in);
